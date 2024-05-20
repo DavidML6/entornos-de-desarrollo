@@ -1,7 +1,7 @@
 AEA 2 Entornos de desarrollo
 
 Objetivo:
-  - Adecuar la escritura del código en los proyectos
+  - Reformatear el código según PEP 8 y PEP 257
   - Realización de pruebas a los códigos
   - Uso del debugger
-  - Uso del GitHub
+  - Control de versiones con GitHub
